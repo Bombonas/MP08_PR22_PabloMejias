@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.pr22_pablomejias"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.pr22_pablomejias"
